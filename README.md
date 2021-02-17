@@ -1,6 +1,7 @@
  <a target="_blank" href="https://chicajasmin.netlify.app/#">
-<img src="https://i.ibb.co/1JZdrdC/SE.png" alt="SE" border="0" width="100%"></a> 
+<img src="https://i.ibb.co/1JZdrdC/SE.png" alt="SE" border="0" width="374px" height="122px"></a> 
 </a>
+  
 
  
  

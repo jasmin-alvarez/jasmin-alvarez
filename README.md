@@ -1,6 +1,6 @@
 
- ![Alt Text](https://media3.giphy.com/media/W08g7o5V6Dk6ru1q9y/giphy.gif) 
- 
+
+ <img src="https://media3.giphy.com/media/W08g7o5V6Dk6ru1q9y/giphy.gif" width="40" height="40" />
  
  ## Hi! I'm <a href="https://chicajasmin.netlify.app/#">Jasmin</a>👋
  A Technical Marketing Engineer. <br>

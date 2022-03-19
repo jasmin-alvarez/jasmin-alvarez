@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p  align="center"><img height="25%" width="88%" src = "https://media.giphy.com/media/cK55kjv2lIQTyT0TMI/giphy.gif"></p>
 
 # Hello Everyone   <img src="https://media.giphy.com/media/QmH8OnsBQvC4yn8BnX/giphy.gif" width="50" ><br>
- <img align="right" alt="Chica" src="https://media.giphy.com/media/iDvCzaRjNV61J5jtc0/giphy.gif" width="40%" height = "10%" position= "absolute"/>
+ <img align="right" alt="Chica" src="https://media.giphy.com/media/iDvCzaRjNV61J5jtc0/giphy.gif" width="40%" height = "10%" />
  
 
 - My name is [Jasmin](link) <img src="https://media.giphy.com/media/SYWrcYCa0fqTuSwI1Q/giphy.gif" width="5%"> and I am a Technical Marketing Engineer <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="5%">
@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 <hr>
 
 ## ⚡ Technologies
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -64,7 +63,6 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Jasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmin-alvarez&show_icons=true&count_private=true&theme=radical&border_color=#6a0dad )
-
 <hr>
 
 ##  Funny Memes 

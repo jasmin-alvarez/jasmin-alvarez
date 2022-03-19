@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <hr>
 
 ##  Funny Memes 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width ="25%" height="30%" >
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width ="45%" height="30%" >
 
 
  

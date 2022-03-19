@@ -62,6 +62,11 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+<br>
+<img src ='https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif'>
+<br> 
+
 ![Jasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmin-alvarez&show_icons=true&count_private=true&theme=radical&border_color=#6a0dad )
 <hr>
 

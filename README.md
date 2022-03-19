@@ -64,7 +64,6 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-<br>
 
 ![Jasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmin-alvarez&show_icons=true&count_private=true&theme=radical&border_color=#6a0dad )
 

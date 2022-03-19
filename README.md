@@ -1,6 +1,6 @@
 
  
- ## Hi! I'm <a href="https://chicajasmin.netlify.app/#">Jasmin</a>👋
+ ## Hi there Friends! I'm <a href="https://chicajasmin.netlify.app/#">Jasmin</a>👋
  A Technical Marketing Engineer. <br>
  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)

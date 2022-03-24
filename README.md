@@ -69,9 +69,11 @@ Here are some ideas to get you started:
 
 ![Jasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmin-alvarez&show_icons=true&count_private=true&theme=radical&border_color=#6a0dad )
 <hr>
-
+```
 ##  Funny Memes 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width ="45%" height="30%" >
+
+```
 
 
  

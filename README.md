@@ -30,7 +30,7 @@ Here are some ideas to get you started:
  <img align="right" alt="Chica" src="https://media.giphy.com/media/iDvCzaRjNV61J5jtc0/giphy.gif" width="40%" height = "10%" />
  
 
-- My name is [Jasmin](https://chicajasmin.netlify.app/) <img src="https://media.giphy.com/media/SYWrcYCa0fqTuSwI1Q/giphy.gif" width="5%"> and I am a Technical Marketing Engineer <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="5%">
+- My name is [Jasmin](https://chicajasmin.netlify.app/) <img src="https://media.giphy.com/media/SYWrcYCa0fqTuSwI1Q/giphy.gif" width="5%"> and I am a Product Manager <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="5%">
 
 
 - 🔭 I’m currently working on my data engineering skills through [Correlation One Program](https://www.correlation-one.com/ds4a-data-engineering).

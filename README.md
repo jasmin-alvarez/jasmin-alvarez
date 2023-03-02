@@ -33,10 +33,9 @@ Here are some ideas to get you started:
 - My name is [Jasmin](https://chicajasmin.netlify.app/) <img src="https://media.giphy.com/media/SYWrcYCa0fqTuSwI1Q/giphy.gif" width="5%"> and I am a Product Manager <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="5%">
 
 
-- 🔭 I’m currently working on my data science skills through [Correlation One Program](https://www.correlation-one.com/ds4a-data-engineering).
+- 🔭 I’m currently working on my clouds skills through Andrew's Cloud bootcamp
 
-
-- 🌱 I’m currently learning new skills in **Data**, **Product Management**,**Cloud** and **Cyber Security**.
+- 🌱 I’m currently learning new skills in **Data Science**, **Product Management**,**Cloud** , ** CloudNative** ,**Networking** and **Cyber Security**.
 
 
 - 📫 How to reach me:  &nbsp;&nbsp;&nbsp;&nbsp; <a target="_blank" href="https://twitter.com/DevchicaJasmin" ><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&width=15px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
